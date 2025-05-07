@@ -4,9 +4,9 @@ During the day I teach aspiring game developers at [Howest - Digital Arts & Ente
 
 - Among others I teach the course [Programming 4](avadae.github.com/programming4) and [Group Projects](avadae.github.io/game-groupprojects)
 
-During the evening I freelance on all kinds of projects and play poker!
+During the evening I freelance on all kinds of projects.
 
-- Mainly I develop the [Home Poker Tournament Manager](hptm.eu) 
+- I am the developer of the [Home Poker Tournament Manager](hptm.eu) 
 - Currently I am contributing to [Time To Wake Up](https://store.steampowered.com/app/2509870/Time_To_Wake_Up/)
 
 <!--
