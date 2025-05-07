@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi all 👋
+
+During the day I teach aspiring game developers at [Howest - Digital Arts & Entertainment](www.digitalartsandentertainment.com).
+
+- Among others I teach the course [Programming 4](avadae.github.com/programming4) and [Group Projects](avadae.github.io/game-groupprojects)
+
+During the evening I freelance on all kinds of projects and play poker!
+
+- Mainly I develop the [Home Poker Tournament Manager](hptm.eu) 
+- Currently I am contributing to [Time To Wake Up](https://store.steampowered.com/app/2509870/Time_To_Wake_Up/)
 
 <!--
 **grrava/grrava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
