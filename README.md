@@ -6,8 +6,12 @@ During the day I teach aspiring game developers at [Howest - Digital Arts & Ente
 
 During the evening I freelance on all kinds of projects.
 
-- I am the developer of the [Home Poker Tournament Manager](hptm.eu) 
+- I am the developer of the [Home Poker Tournament Manager](hptm.eu)
+  - This is a 100% free app, without ads or other monitization!
+  - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V51EHNO6)
 - Currently I am contributing to [Time To Wake Up](https://store.steampowered.com/app/2509870/Time_To_Wake_Up/)
+
+
 
 <!--
 **grrava/grrava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
